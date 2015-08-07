@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="native_library">NativeProcessingComponent</string>
+	<string name="configFilePath">/properties.xml</string>
+	
+    <string name="app_name">BA</string>    
+    <string name="action_settings">Settings</string>
+    
+    <string name="calibration">White Balancing</string>
+    <string name="calibration_success">Calibration Successful</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="calibrating">Calibrating…</string>
+    
+    <string name="withdraw">Withdraw</string>
+    <string name="withdrawing">Withdrawing…</string>
+    
+    <string name="implement">Implement</string>
+    <string name="implementing">Implementing…</string>
+    
+    <string name="progress">Fortschritt: </string>
+    <string name="completion">Platine abgeschlossen</string>
+    
+    <string name="board">Board: </string>
+    <string name="component">Bauteil: </string>
+    <string name="occurrences">Anzahl: </string>
+    <string name="polarity">Polung: </string>
+    
+    <string name="yes">JA</string>
+    <string name="no">NEIN</string>
+    
+    <string name="mode"></string>
+    <string name="empty">Calibrate Camera!</string>
+    <string name="percent">%</string>
+    <string name="slash">/</string>
+    <string name="new_line">\n</string>
+
+</resources>
